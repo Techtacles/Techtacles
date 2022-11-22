@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more on Apache Kafka and building scalable and optimized cloud infrastructure.<br><br>
 - 👯 I’m looking to collaborate on data engineering tasks <br><br>
 - 💬 Ask me about data engineering, software engineering and cloud computing <br><br>
-- 📫 How to reach me : <a href-'https://www.linkedin.com/in/offisong-emmanuel-643b96195/'> <![download](https://user-images.githubusercontent.com/57522480/203383373-938643f0-817e-4b36-838b-60c3d8ba26d6.png)>
+- 📫 How to reach me : <a href-'https://www.linkedin.com/in/offisong-emmanuel-643b96195/'>here
 </a><br><br>
 - I also write technical articles -- https://github.com/Techtacles/Technical-Articles<br><br>
 
