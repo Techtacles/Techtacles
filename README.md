@@ -30,6 +30,8 @@
 <br> <b>☁️ Cloud</b>: AWS, GCP<br>
 <br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates<br>
 <br> <b>📊 BI Tool</b>:  Looker, Power BI, Metabase<br>
+<br> <b>📊 Cloud monitoring</b>:Amazon cloudwatch, Dynatrace.<br>
+
 </p>
 
 
