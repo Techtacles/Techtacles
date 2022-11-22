@@ -2,13 +2,13 @@
 
 
 
-<h3 align="center">I am a data engineer</h3>
+<h3>I am a data engineer</h3> <br>
 <h2 >Some things about me...</h2>
-- 🌱 I’m currently learning more on Apache Kafka and building scalable and optimized cloud infrastructure.
-- 👯 I’m looking to collaborate on data engineering tasks 
-- 💬 Ask me about data engineering, software engineering and cloud computing 
-- 📫 How to reach me emmanueloffisong2002@yahoo.com
-- I also write technical articles -- https://github.com/Techtacles/Technical-Articles
+- 🌱 I’m currently learning more on Apache Kafka and building scalable and optimized cloud infrastructure.<br><br>
+- 👯 I’m looking to collaborate on data engineering tasks <br><br>
+- 💬 Ask me about data engineering, software engineering and cloud computing <br><br>
+- 📫 How to reach me emmanueloffisong2002@yahoo.com<br><br>
+- I also write technical articles -- https://github.com/Techtacles/Technical-Articles<br><br>
 
 <h2>Tech Stack</h2>
 
