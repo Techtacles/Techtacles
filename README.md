@@ -13,12 +13,12 @@
 <h2>Tech Stack</h2>
 
 <p align="left">
- <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala
-<br> <b>🛠 Data Tool</b>: PySpark, Apache Spark (scala), Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR
-<br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB
-<br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure data factory
-<br> <b>☁️ Cloud</b>: AWS, GCP
-<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates
-<br> <b>📊 BI Tool</b>:  Looker, Power BI, Metabase
+ <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br>
+<br> <b>🛠 Data Tool</b>: PySpark, Apache Spark (scala), Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR<br>
+<br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
+<br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure data factory<br>
+<br> <b>☁️ Cloud</b>: AWS, GCP<br>
+<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates<br>
+<br> <b>📊 BI Tool</b>:  Looker, Power BI, Metabase<br>
 </p>
 
