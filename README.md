@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Emmanuel.
 
-<!--
-**Techtacles/Techtacles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3 align="center">I am a data engineer</h3>
 <h2 >Some things about me...</h2>
@@ -22,4 +21,4 @@
 <br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates
 <br> <b>📊 BI Tool</b>:  Looker, Power BI, Metabase
 </p>
--->
+
