@@ -2,7 +2,7 @@
 
 
 
-<h3>I am a software engineer focused on data engineering and machine learning. I build scalable, robust data pipelines and cloud infrastructure. I am also proficient in python , scala and sql. </h3> <br>
+<h3>I am a software engineer focused on data engineering and cloud engineering. I build scalable, robust data pipelines and cloud infrastructure. I am also proficient in python , scala and sql. </h3> <br>
 <p align="center">
 
 <!-- <img align="center" alt="coding" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif"> -->
