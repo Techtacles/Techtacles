@@ -27,9 +27,9 @@
 <br> <b>🛠 Data Tool</b>: PySpark, Apache Spark (scala), Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte<br>
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
 <br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure data factory<br>
-<br> <b>☁️ Cloud</b>: AWS, GCP<br>
-<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates<br>
-<br> <b>📊 BI Tool</b>:  Looker, Power BI, Metabase<br>
+<br> <b>☁️ Cloud</b>: AWS, GCP, Azure . I am also a certified AWS Solutions Architect Associate. I am also very proficient in Azure.<br>
+<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates, Github Actions (CICD), Kubernetes, Azure ARM, Makefile, Grafana<br>
+<br> <b>📊 BI Tool</b>:   Power BI, Metabase<br>
 <br> <b>📊 Cloud monitoring</b>:Amazon cloudwatch, Dynatrace.<br>
 
 </p>
