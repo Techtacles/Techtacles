@@ -2,7 +2,7 @@
 
 
 
-<h3>I am a software engineer focused on data engineering and cloud engineering. I build scalable, robust data pipelines and cloud infrastructure. I am also proficient in python , scala and sql. </h3> <br>
+<h3>I am a software engineer focused on data engineering and cloud devops engineering. I build scalable, robust data pipelines and cloud infrastructure.  </h3> <br>
 <p align="center">
 
 <!-- <img align="center" alt="coding" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif"> -->
@@ -12,8 +12,8 @@
 
 <h2 >Some things about me...</h2>
 - 🌱 I’m currently learning more on Apache Kafka and building scalable and optimized cloud infrastructure.<br><br>
-- 👯 I’m looking to collaborate on data engineering tasks <br><br>
-- 💬 Ask me about data engineering, software engineering and cloud computing <br><br>
+- 👯 I’m looking to collaborate on data engineering and devops tasks <br><br>
+- 💬 Ask me about data engineering, software engineering and devops <br><br>
 
 - I also write technical articles -- https://github.com/Techtacles/Technical-Articles<br><br>
 - 📫 How to reach me : 
@@ -24,13 +24,13 @@
 
 <p align="left">
  <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br>
-<br> <b>🛠 Data Tool</b>: PySpark, Apache Spark (scala), Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte<br>
+<br> <b>🛠 Data Tool</b>: PySpark, Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte, Azure Data Factory, Databricksbr>
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
-<br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure data factory<br>
+<br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure Synapse Workspaces<br>
 <br> <b>☁️ Cloud</b>: AWS, GCP, Azure . I am also a certified AWS Solutions Architect Associate. I am also very proficient in Azure.<br>
-<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates, Github Actions (CICD), Kubernetes, Azure ARM, Makefile, Grafana<br>
+<br> <b>🛠 DevOps</b>: Docker, Terraform, Git, Cloud formation templates, Github Actions (CICD), Kubernetes, Azure ARM, Makefile, Grafana, Prometheus, Jenkins<br>
 <br> <b>📊 BI Tool</b>:   Power BI, Metabase<br>
-<br> <b>📊 Cloud monitoring</b>:Amazon cloudwatch, Dynatrace.<br>
+<br> <b>📊 Cloud monitoring</b>:Amazon cloudwatch, Dynatrace, Grafana, Prometheus<br>
 
 </p>
 
