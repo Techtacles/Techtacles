@@ -2,7 +2,7 @@
 
 
 
-<h3>I am a software engineer focused on data engineering and cloud devops engineering. I build scalable, robust data pipelines and cloud infrastructure.  </h3> <br>
+<h3>I am a software engineer focused on data engineering, cloud devops engineering and architecting backend systems. I build scalable, robust data pipelines and cloud infrastructure.  </h3> <br>
 <p align="center">
 
 <!-- <img align="center" alt="coding" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif"> -->
@@ -24,6 +24,7 @@
 
 <p align="left">
  <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br>
+ <b>🧑🏾‍💻 Server side languages</b>: Django, Django REST framework<br>
 <br> <b>🛠 Data Tool</b>: PySpark, Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte, Azure Data Factory, Databricksbr>
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
 <br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure Synapse Workspaces<br>
