@@ -23,7 +23,7 @@
 
 
 <p align="left">
- <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br>
+ <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br><br>
  <b>🧑🏾‍💻 Server side languages</b>: Django, Django REST framework<br>
 <br> <b>🛠 Data Tool</b>: PySpark, Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte, Azure Data Factory, Databricksbr>
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
