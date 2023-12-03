@@ -24,7 +24,7 @@
 
 <p align="left">
  <b>🧑🏾‍💻 Programming Language</b>: Python, SQL, Scala<br><br>
- <b>🧑🏾‍💻 Server side languages</b>: Django, Django REST framework<br>
+ <b>🧑🏾‍💻 Server side languages</b>: FastAPI<br>
 <br> <b>🛠 Data Tool</b>: PySpark, Pandas, Kafka, Redpanda, QGis, dbt, Airflow, EMR, Airbyte, Azure Data Factory, Databricksbr>
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
 <br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, Azure Synapse Workspaces<br>
